@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\bin\Debug\net6.0\TestProj4Dictionary.exe
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\bin\Debug\net6.0\TestProj4Dictionary.deps.json
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\bin\Debug\net6.0\TestProj4Dictionary.runtimeconfig.json
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\bin\Debug\net6.0\TestProj4Dictionary.dll
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\bin\Debug\net6.0\TestProj4Dictionary.pdb
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.AssemblyInfo.cs
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.dll
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\refint\TestProj4Dictionary.dll
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.pdb
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\TestProj4Dictionary.genruntimeconfig.cache
+C:\Users\lucas\Documents\Programação\C# Projects\TestProj4Dictionary\obj\Debug\net6.0\ref\TestProj4Dictionary.dll
